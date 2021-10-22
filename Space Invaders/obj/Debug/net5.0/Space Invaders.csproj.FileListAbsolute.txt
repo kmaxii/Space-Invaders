@@ -1,0 +1,91 @@
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\Space Invaders.exe
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\background.png
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\sheet.png
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\tank.png
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\future.ttf
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\pixel-font.ttf
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\explosionCrunch_000.ogg
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\laserLarge_000.ogg
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\laserLarge_003.ogg
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\Space Shooter Template Music.ogg
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\Space Invaders.deps.json
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\Space Invaders.runtimeconfig.json
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\Space Invaders.runtimeconfig.dev.json
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\Space Invaders.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\ref\Space Invaders.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\Space Invaders.pdb
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\SFML.Audio.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\SFML.Graphics.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\SFML.System.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\SFML.Window.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x64\native\openal32.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\runtimes\win-x86\native\openal32.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.csproj.AssemblyReference.cache
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.AssemblyInfoInputs.cache
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.AssemblyInfo.cs
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.csproj.CopyComplete
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\ref\Space Invaders.dll
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.pdb
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\obj\Debug\net5.0\Space Invaders.genruntimeconfig.cache
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\doorClose_002.ogg
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\doorOpen_002.ogg
+C:\Users\1\Documents\programming\Space Invaders\Space Invaders\Space Invaders\bin\Debug\net5.0\assets\doorOpen_000.ogg
