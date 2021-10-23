@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "TG0rokOJSo8jE9uASoELDqccJeUgxG+eBRYHJBoGYq52nRq3lO5yasgwlUeF1XkoLMv0zdUwCUxmZF+pJj4bSw==",
+  "dgSpecHash": "T2c3mW6USZjh9on495FTZ5muI7LDWUMZlDIs6wyRNN0qzGXJpgbVY+gvBYD6Pu5yuyk8tq9Du8xPZFnoqd7R7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Documents\\programming\\Space Invaders\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
+  "projectFilePath": "F:\\Programming\\JetBrains Rider 2021.2.1\\projects\\Space-Invaders\\Space Invaders\\Space Invaders.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\1\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
-    "C:\\Users\\1\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+    "C:\\Users\\esst9\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\esst9\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\esst9\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\esst9\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\esst9\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\esst9\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
   ],
   "logs": []
 }

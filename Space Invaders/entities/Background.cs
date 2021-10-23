@@ -45,7 +45,6 @@ namespace Space_Invaders.entities
 
         protected override void Update(Scene scene, float deltaTime)
         {
-            base.Update(scene, deltaTime);
 
 
             for (int i = 0; i < _positions.Count; i++)

@@ -47,7 +47,6 @@ namespace Space_Invaders.entities
 
         protected override void Update(Scene scene, float deltaTime)
         {
-            base.Update(scene, deltaTime);
 
             Sprite.Position += BulletSpeed * _direction * deltaTime;
 

@@ -36,7 +36,6 @@ namespace Space_Invaders.entities.Actors
 
         protected override void Update(Scene scene, float deltaTime)
         {
-            base.Update(scene, deltaTime);
 
             //Reduces the spawnTimer, but stops some where close to 0
             if (_spawnTimer > 0) _spawnTimer -= deltaTime;

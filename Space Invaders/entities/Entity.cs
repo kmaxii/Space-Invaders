@@ -37,9 +37,7 @@ namespace Space_Invaders.entities
             target.Draw(Sprite);
         }
 
-        protected virtual void Update(Scene scene, float deltaTime)
-        {
-        }
+        protected abstract void Update(Scene scene, float deltaTime);
 
 
         public virtual void Destroy(Scene scene)

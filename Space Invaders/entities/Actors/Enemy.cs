@@ -37,7 +37,6 @@ namespace Space_Invaders.entities.Actors
 
         protected override void Update(Scene scene, float deltaTime)
         {
-            base.Update(scene, deltaTime);
 
             //Tries to move the ship. If it hits a wall it turns.
             if (Move(_direction * Speed * deltaTime, false))

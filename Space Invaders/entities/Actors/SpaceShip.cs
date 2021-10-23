@@ -2,7 +2,7 @@
 
 namespace Space_Invaders.entities.Actors
 {
-    public class SpaceShip : Entity
+    public abstract class SpaceShip : Entity
     {
         protected float Speed;
         protected float FireOnCooldownTimer;

@@ -31,7 +31,6 @@ namespace Space_Invaders.entities
 
         protected override void Update(Scene scene, float deltaTime)
         {
-            base.Update(scene, deltaTime);
 
             if (Keyboard.IsKeyPressed(Keyboard.Key.Escape))
             {
